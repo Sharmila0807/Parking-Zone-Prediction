@@ -1,8 +1,7 @@
 # Parking-Zone-Prediction
 
 ## High-Quality Dataset - For chennai parking zone
-https://drive.google.com/file/d/1cJinSHH5B445i1w-wh7y4VI34OOGIxsD/view?usp=sharing 
-
+https://drive.google.com/file/d/1sjwofOauJjBAwQxzecZi3nAxILOklton/view?usp=sharing
 ### Features:
 Latitude: Geographical coordinate indicating the north-south position.<br>
 Longitude: Geographical coordinate indicating the east-west position.<br>
